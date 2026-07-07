@@ -1,0 +1,14 @@
+{
+  "configVersion": {
+    "valid": true,
+    "val": "v2.0.0"
+  },
+  "withdrawEnabled": {
+    "valid": true,
+    "val": false
+  },
+  "isShowInterstitial": {
+    "valid": true,
+    "val": false
+  }
+}
