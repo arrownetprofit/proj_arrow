@@ -5,10 +5,10 @@
   },
   "withdrawEnabled": {
     "valid": true,
-    "val": true
+    "val": false
   },
   "isShowInterstitial": {
     "valid": true,
-    "val": true
+    "val": false
   }
 }
