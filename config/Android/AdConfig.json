@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "typeID": {
+        "a": 12020,
+        "b": 1,
+        "c": 0
+      },
+      "name": "big_reward",
+      "type": 10,
+      "enable": 1,
+      "skip_times": 1
+    },
+    {
+      "typeID": {
+        "a": 12020,
+        "b": 2,
+        "c": 0
+      },
+      "name": "game_revive",
+      "type": 10,
+      "enable": 1,
+      "skip_times": 0
+    },
+    {
+      "typeID": {
+        "a": 12020,
+        "b": 3,
+        "c": 0
+      },
+      "name": "game_item1",
+      "type": 10,
+      "enable": 1,
+      "skip_times": 2
+    },
+    {
+      "typeID": {
+        "a": 12020,
+        "b": 4,
+        "c": 0
+      },
+      "name": "game_item2",
+      "type": 10,
+      "enable": 1,
+      "skip_times": 2
+    },
+    {
+      "typeID": {
+        "a": 12020,
+        "b": 5,
+        "c": 0
+      },
+      "name": "big_reward_close",
+      "type": 30,
+      "enable": 0,
+      "skip_times": 2
+    },
+    {
+      "typeID": {
+        "a": 12020,
+        "b": 6,
+        "c": 0
+      },
+      "name": "game_start",
+      "type": 30,
+      "enable": 0,
+      "skip_times": 0
+    },
+    {
+      "typeID": {
+        "a": 12020,
+        "b": 7,
+        "c": 0
+      },
+      "name": "game_restart",
+      "type": 30,
+      "enable": 0,
+      "skip_times": 2
+    },
+    {
+      "typeID": {
+        "a": 12020,
+        "b": 8,
+        "c": 0
+      },
+      "name": "game_finish",
+      "type": 30,
+      "enable": 1,
+      "skip_times": 2
+    }
+  ]
+}
