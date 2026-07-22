@@ -180,7 +180,7 @@
   },
   "withdrawEnabled": {
     "valid": true,
-    "val": false
+    "val": true
   },
   "isTrafficTypeCheckEnabled": {
     "valid": true,
@@ -188,6 +188,6 @@
   },
   "isShowInterstitial": {
     "valid": true,
-    "val": false
+    "val": true
   }
 }
