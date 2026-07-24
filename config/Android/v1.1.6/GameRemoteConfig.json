@@ -188,6 +188,6 @@
   },
   "isShowInterstitial": {
     "valid": true,
-    "val": true
+    "val": false
   }
 }
