@@ -8,7 +8,7 @@
     "small": 0.1
   },
   "adConfig": {
-    "int_ad_interval": 90,
+    "int_ad_interval": 60,
     "items": [
       {
         "typeID": {
@@ -41,7 +41,7 @@
         "name": "game_item1",
         "type": 10,
         "enable": 1,
-        "skip_times": 2
+        "skip_times": 0
       },
       {
         "typeID": {
@@ -52,7 +52,7 @@
         "name": "game_item2",
         "type": 10,
         "enable": 1,
-        "skip_times": 2
+        "skip_times": 0
       },
       {
         "typeID": {
@@ -62,8 +62,8 @@
         },
         "name": "big_reward_close",
         "type": 30,
-        "enable": 0,
-        "skip_times": 2
+        "enable": 1,
+        "skip_times": 0
       },
       {
         "typeID": {
@@ -84,8 +84,8 @@
         },
         "name": "game_restart",
         "type": 30,
-        "enable": 0,
-        "skip_times": 2
+        "enable": 1,
+        "skip_times": 0
       },
       {
         "typeID": {
@@ -96,7 +96,7 @@
         "name": "game_finish",
         "type": 30,
         "enable": 1,
-        "skip_times": 2
+        "skip_times": 0
       }
     ]
   },
