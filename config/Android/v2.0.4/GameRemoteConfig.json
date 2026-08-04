@@ -184,7 +184,7 @@
   },
   "isTrafficTypeCheckEnabled": {
     "valid": true,
-    "val": false
+    "val": true
   },
   "isShowInterstitial": {
     "valid": true,
