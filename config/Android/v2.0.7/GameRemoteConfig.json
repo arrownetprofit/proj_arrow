@@ -180,7 +180,7 @@
   },
   "withdrawEnabled": {
     "valid": true,
-    "val": false
+    "val": true
   },
   "isTrafficTypeCheckEnabled": {
     "valid": true,
