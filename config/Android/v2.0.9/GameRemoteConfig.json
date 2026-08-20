@@ -107,7 +107,7 @@
         "taskID": "1-1-0",
         "targetValues": [
           800.0,
-          10.0,
+          604800.0,
           0.0
         ]
       },
@@ -159,7 +159,7 @@
   },
   "withdrawEnabled": {
     "valid": true,
-    "val": true
+    "val": false
   },
   "isTrafficTypeCheckEnabled": {
     "valid": true,
