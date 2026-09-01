@@ -3,7 +3,7 @@
   "isTrafficTypeCheckEnabled": false,
   "isShowInterstitial": true,
   "adConfig": {
-    "int_ad_interval": 60,
+    "int_ad_interval": 65,
     "interstitial_skip_level_count": null,
     "items": []
   }
