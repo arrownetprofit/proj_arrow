@@ -1,0 +1,10 @@
+{
+  "isWithdrawEnabled": true,
+  "isTrafficTypeCheckEnabled": false,
+  "isShowInterstitial": true,
+  "adConfig": {
+    "interstitial_protect_skip_count": 2,
+    "interstitial_skip_level_count": null,
+    "items": []
+  }
+}
