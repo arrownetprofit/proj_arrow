@@ -4,6 +4,7 @@
   "isShowInterstitial": true,
   "adConfig": {
     "interstitial_protect_skip_count": 3,
+    "interstitial_post_play_skip_count": null,
     "interstitial_skip_level_count": null,
     "items": []
   }
