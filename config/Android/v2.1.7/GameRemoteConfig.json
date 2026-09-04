@@ -1,5 +1,5 @@
 {
-  "isWithdrawEnabled": true,
+  "isWithdrawEnabled": false,
   "isTrafficTypeCheckEnabled": false,
   "isShowInterstitial": true,
   "adConfig": {
